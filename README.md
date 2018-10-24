@@ -3,12 +3,7 @@
 
 Hello correcteur(ice)! Voici l'exercice du jour 3 / semaine 04 de THP qu'on appellera **Passage de SQL à ActiveRecord**  
 
-Ce dossier concerne l'app rails de The Hacking Class, une classe cours et une classe élève pouvant s'incrire à ce cours.
-
-
-## Présentation du projet :
-
-Création de plusieurs bases de données en partant de 0 avec Rails et ActiveRecord. Partie hacking class
+Ce dossier concerne l'app rails de The Hacking Class. C'est un site d'éducation en ligne. Dans ce site il y aura des élèves qui peuvent s'inscrire à un seul cours. Un cours pourra avoir plusieurs élèves.
    
 ## Méthode à suivre :bulb::
 
